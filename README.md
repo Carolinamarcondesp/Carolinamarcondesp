@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carol</h1>
+<p align="center"> <img src="https://i.imgur.com/XEGJ2NA.jpeg" alt="memoji" style="width:144px;height:164px;" > </p>
+
 <h3 align="center">A passionate techie from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolinamarcondesp&label=Profile%20views&color=0e75b6&style=flat" alt="carolinamarcondesp" /> </p>
@@ -7,7 +9,8 @@
 
 - 📄 Know about my experiences [https://carolinamarcondesp.github.io/resume/](https://carolinamarcondesp.github.io/resume/)
 
-- ⚡ Fun fact **Heliophilic**
+- ⚡ Fun facts:  ☁️ Dreamer  | 
+☀️Heliophiliac|🔍Curious |🎮 Gamer|♻️Eco-friendly|🐚Shelling Enthusiast|🍺Beer Lover|♑️ Capricorn*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
