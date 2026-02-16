@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolinamarcondesp&label=Profile%20views&color=0e75b6&style=flat" alt="carolinamarcondesp" /> </p>
 
-- 🌱 I’m currently learning **laravel, vue and js**
+- 🌱 I’m currently learning **golang and angular**
 
 - 📄 Know about my experiences [https://carolinamarcondesp.github.io/resume/](https://carolinamarcondesp.github.io/resume/)
 
